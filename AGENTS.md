@@ -1,6 +1,7 @@
 # Project operating instructions
 
 - ClapClapDance serves families with children aged 0–7. Videos show kids and parents dancing together. Preserve this positioning in research and production.
+- Owner-confirmed planning constraints: one polished original song/video per week, five hours of work per week, and $50–80 monthly total production budget. Prioritize the weekly original; extra formats must fit spare capacity. Measure production feasibility rather than assuming the cadence or tool budget is already proven.
 - Start from README.md, program.md, the latest research cycle, and git status. Read the relevant operations document before making a production or measurement decision.
 - The owner requested that work stay updated in https://github.com/vineetjaydeo/ClapClapDance. Update relevant documentation and records alongside changes. Commit the task's reviewed files, push without force, and verify remote HEAD. Do not include unrelated edits. If push fails, report local and remote status separately.
 - The repository is public. Never commit secrets, private Studio exports, identifiable family feedback, releases, personal contact data, or raw browser activity. Store these under .private/ when needed. Project media uses Git LFS and the checksum manifest. Verify changed media remotely before updating its verified status; do not change billing limits.

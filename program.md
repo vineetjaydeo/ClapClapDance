@@ -2,6 +2,8 @@
 
 Objective: learn which music, parent-child choreography, packaging, and distribution choices create repeat family use at sustainable production cost, for families with children aged 0–7.
 
+The owner-selected business milestone is 1,000 subscribers and 4,000 qualifying public watch hours. Read `operations/ypp-growth-plan.md` for the current plan and separate Studio/Earn eligibility totals from diagnostic Analytics watch time. The owner confirmed one polished original per week, five hours weekly and $50–80 monthly; production feasibility still needs evidence. Scenario rates and the 26-week horizon are provisional assumptions, not measured results or a guaranteed finish date.
+
 Inspired by [karpathy/autoresearch](https://github.com/karpathy/autoresearch/tree/228791f). This is a domain adaptation, not the upstream LLM-training program. The human-readable protocol is executed by the agent; `scripts/lab.py` validates records and prepares descriptive reviews. It does not autonomously publish, run an LLM, or infer causality.
 
 ## Fixed evaluation contract

@@ -1,6 +1,6 @@
 # What ClapClapDance needs to learn and build
 
-Research date: 2026-09-24. Owner-confirmed audience: ages 0–7. Owner-confirmed format: kids music with children and parents dancing in the videos. English and one polished song per week are provisional planning assumptions. The [source ledger](sources.json) distinguishes reviewed policies, examples, and observations. No claim of exhaustive knowledge or a guaranteed route to success is made.
+Research date: 2026-09-24. Owner-confirmed audience: ages 0–7. Owner-confirmed format: kids music with children and parents dancing in the videos. Later that day the owner confirmed one polished song per week, five hours weekly and $50–80 monthly; English remains provisional. The [YPP growth plan](../operations/ypp-growth-plan.md) is the current operating plan. The [source ledger](sources.json) distinguishes reviewed policies, examples, and observations. No claim of exhaustive knowledge or a guaranteed route to success is made.
 
 ## Recommendation
 
@@ -86,7 +86,7 @@ The operating floor in the protocol prevents snap judgments; it is **not a stati
 
 ## Economics and rights
 
-Record production hours, direct cash cost, generated attempts, rejected shots and reusable assets per finished song. Set a budget ceiling with the owner before paying for a production run. Reduce avoidable revision work with a song lock, character proof, 10–15 second finished sample and shot plan.
+Record production hours, direct cash cost, generated attempts, rejected shots and reusable assets per finished song. Fit the process within the confirmed five-hour week and $50–80 monthly production budget, including subscriptions and failed attempts. Reduce avoidable revision work with a song lock, character proof, 10–15 second finished sample and shot plan.
 
 As of this research pass, YouTube's main ad-revenue eligibility paths list 1,000 subscribers plus either 4,000 qualified public watch hours over 12 months or 10 million qualified Shorts views over 90 days. Thresholds do not guarantee acceptance; Studio's Earn page is the channel-specific authority. Shorts Feed watch time does not count toward the long-form hours path. [YPP documentation](https://support.google.com/youtube/answer/72851?hl=en)
 
@@ -97,7 +97,7 @@ Maintain a rights ledger for composition, lyric adaptation, recording, voices, l
 ## Immediate priorities
 
 1. Preserve the first upload and capture its first complete reporting windows once metrics are available. Do not change live packaging just because launch data is tiny.
-2. Confirm language, primary markets, weekly hours and spending ceiling.
+2. Confirm language/primary markets and prove that production fits the agreed weekly hours and spending ceiling.
 3. Prepare a next-song brief with the parent-child relationship explicit, and get a finished-quality sample accepted before full production.
 4. Complete the rights/disclosure record for existing and future songs. Review the current blanket ownership/original-song wording against actual provenance.
 5. Run the first preregistered experiment only after a stable baseline and adequate measurement exist. Use `inconclusive` freely when they do not.
