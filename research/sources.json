@@ -1,0 +1,198 @@
+{
+  "reviewed_on": "2026-09-24",
+  "scope": "Primary platform sources, creator-owned examples, and scoped live observations. Policy pages have no guaranteed update date; recheck before a consequential release decision.",
+  "sources": [
+    {
+      "id": "S01",
+      "title": "Karpathy autoresearch",
+      "url": "https://github.com/karpathy/autoresearch",
+      "type": "method",
+      "accessed_on": "2026-09-24",
+      "observation": "Read repository README and program.md at local commit 228791f; adapted the experiment discipline, not its GPU runtime."
+    },
+    {
+      "id": "S02",
+      "title": "Determining Made for Kids",
+      "url": "https://support.google.com/youtube/answer/9528076?hl=en",
+      "type": "official_policy",
+      "accessed_on": "2026-09-24",
+      "observation": "Child-directed and mixed-audience classification; Analytics demographics are not a classification tool."
+    },
+    {
+      "id": "S03",
+      "title": "Made for Kids feature restrictions",
+      "url": "https://support.google.com/youtube/answer/9527654?hl=en",
+      "type": "official_policy",
+      "accessed_on": "2026-09-24",
+      "observation": "Affected video/channel features and audience-setting instructions."
+    },
+    {
+      "id": "S04",
+      "title": "Kids and family quality principles",
+      "url": "https://support.google.com/youtube/answer/10774223?hl=en",
+      "type": "official_policy",
+      "accessed_on": "2026-09-24",
+      "observation": "Quality considerations affect recommendations, Kids inclusion and monetization."
+    },
+    {
+      "id": "S05",
+      "title": "Title and thumbnail A/B eligibility",
+      "url": "https://support.google.com/youtube/answer/16391400?hl=en",
+      "type": "official_policy",
+      "accessed_on": "2026-09-24",
+      "observation": "Made for Kids videos cannot use native A/B testing. Earlier thumbnail help URL redirected here."
+    },
+    {
+      "id": "S06",
+      "title": "Discovery and performance FAQ",
+      "url": "https://support.google.com/youtube/answer/141805?hl=en",
+      "type": "official_guidance",
+      "accessed_on": "2026-09-24",
+      "observation": "Viewer relevance/satisfaction; limited tags role; no universal daily-upload or posting-time rule."
+    },
+    {
+      "id": "S07",
+      "title": "CTR and impressions",
+      "url": "https://support.google.com/youtube/answer/7628154?hl=en",
+      "type": "official_metric",
+      "accessed_on": "2026-09-24",
+      "observation": "CTR depends on impressions eligibility, traffic and audience; avoid early small-sample conclusions."
+    },
+    {
+      "id": "S08",
+      "title": "Retention metrics",
+      "url": "https://support.google.com/youtube/answer/9314415?hl=en",
+      "type": "official_metric",
+      "accessed_on": "2026-09-24",
+      "observation": "Processing delay, 30-second intro, key-moment eligibility and interpretation."
+    },
+    {
+      "id": "S09",
+      "title": "Shorts view definitions",
+      "url": "https://support.google.com/youtube/answer/10059070?hl=en",
+      "type": "official_metric",
+      "accessed_on": "2026-09-24",
+      "observation": "Starts/replays and Engaged views differ; keep formats separate."
+    },
+    {
+      "id": "S10",
+      "title": "YPP eligibility",
+      "url": "https://support.google.com/youtube/answer/72851?hl=en",
+      "type": "official_policy",
+      "accessed_on": "2026-09-24",
+      "observation": "Main eligibility thresholds and qualifying-hours exclusions; approval requires review."
+    },
+    {
+      "id": "S11",
+      "title": "Monetization policies",
+      "url": "https://support.google.com/youtube/answer/1311392?hl=en-GB",
+      "type": "official_policy",
+      "accessed_on": "2026-09-24",
+      "observation": "Inauthentic/repetitive and reused-content policies. English-GB page used after initial English page error."
+    },
+    {
+      "id": "S12",
+      "title": "TeamYouTube AI-policy clarification",
+      "url": "https://support.google.com/youtube/thread/356734251?hl=en&msgid=402799024",
+      "type": "official_statement",
+      "accessed_on": "2026-09-24",
+      "observation": "Google employee clarification that AI use alone is not a monetization ban."
+    },
+    {
+      "id": "S13",
+      "title": "AI-use disclosure",
+      "url": "https://support.google.com/youtube/answer/14328491?hl=en",
+      "type": "official_policy",
+      "accessed_on": "2026-09-24",
+      "observation": "Current page explicitly lists AI-generated music; disclosure depends on content."
+    },
+    {
+      "id": "S14",
+      "title": "Copyright on YouTube",
+      "url": "https://support.google.com/youtube/answer/2797466?hl=en",
+      "type": "official_guidance",
+      "accessed_on": "2026-09-24",
+      "observation": "Rights/public-domain verification and uncertainty around AI copyright; no ownership ruling from YouTube checks."
+    },
+    {
+      "id": "S15",
+      "title": "YouTube Kids content policies",
+      "url": "https://support.google.com/youtubekids/answer/10938174?hl=en",
+      "type": "official_policy",
+      "accessed_on": "2026-09-24",
+      "observation": "Separate Kids-app content requirements."
+    },
+    {
+      "id": "S16",
+      "title": "YouTube Kids selection",
+      "url": "https://support.google.com/youtubekids/answer/6172307?hl=en",
+      "type": "official_guidance",
+      "accessed_on": "2026-09-24",
+      "observation": "Kids app uses filtering, input and review; audience designation alone does not establish inclusion."
+    },
+    {
+      "id": "S17",
+      "title": "Advanced-mode exports",
+      "url": "https://support.google.com/youtube/answer/9717005?hl=en-GB",
+      "type": "official_metric",
+      "accessed_on": "2026-09-24",
+      "observation": "Report controls, filters and export current view; UI rollout can change labels."
+    },
+    {
+      "id": "S18",
+      "title": "Super Simple Dance and Stop",
+      "url": "https://supersimple.com/song/dance-and-stop/",
+      "type": "creator_example",
+      "accessed_on": "2026-09-24",
+      "observation": "Reviewed page description/lyric structure; not full audiovisual coding or performance analytics."
+    },
+    {
+      "id": "S19",
+      "title": "GoNoodle Enmocion Freeze",
+      "url": "https://www.gonoodle.com/videos/lYOmA2/freeze",
+      "type": "creator_example",
+      "accessed_on": "2026-09-24",
+      "observation": "Reviewed description, transcript and category labels; not performance analytics."
+    },
+    {
+      "id": "S20",
+      "title": "The Learning Station Pause Pause",
+      "url": "https://www.learningstationmusic.com/blog/2020/12/02/pause-pause-%E2%99%AB-brain-breaks-%E2%99%AB-kids-move-and-freeze-song-by-the-learning-station-%E2%99%AB-with-santa-claus/",
+      "type": "creator_example",
+      "accessed_on": "2026-09-24",
+      "observation": "Reviewed creator article describing seasonal movement/freeze activity; publication is from 2020."
+    },
+    {
+      "id": "S21",
+      "title": "Scratch Garden catalog",
+      "url": "https://scratchgarden.com/videos/",
+      "type": "creator_example",
+      "accessed_on": "2026-09-24",
+      "observation": "Observed activity entries and catalog taxonomy; do not adopt uncited developmental marketing claims."
+    },
+    {
+      "id": "S22",
+      "title": "Danny Go official site",
+      "url": "https://www.dannygo.net/",
+      "type": "creator_example",
+      "accessed_on": "2026-09-24",
+      "observation": "Observed video, music, tour and merchandise surfaces; no revenue or causal success claim."
+    },
+    {
+      "id": "S23",
+      "title": "ClapClapDance public channel",
+      "url": "https://www.youtube.com/@ClapClapDance",
+      "type": "live_observation",
+      "accessed_on": "2026-09-24",
+      "observation": "Browser observation around 12:12 UTC: 4 subscribers, 1 public video, 12 displayed views; time-sensitive snapshot."
+    },
+    {
+      "id": "S24",
+      "title": "ClapClapDance first public video",
+      "url": "https://www.youtube.com/watch?v=6Q0uL2WM_5E",
+      "type": "live_observation",
+      "accessed_on": "2026-09-24",
+      "observation": "Channel card and Studio established title, public status, Sep 24 publication and 2:01 card duration. No full audiovisual audit claimed."
+    }
+  ]
+}

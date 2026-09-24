@@ -1,0 +1,1495 @@
+{
+  "duration": 120.032653,
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "lines": [
+    {
+      "start": 7.3000000000000025,
+      "end": 10.98,
+      "text": "Oats and beans and barley grow",
+      "words": [
+        {
+          "word": "Oats",
+          "start": 7.3000000000000025,
+          "end": 8.42,
+          "probability": 0.5322265625
+        },
+        {
+          "word": "and",
+          "start": 8.42,
+          "end": 8.82,
+          "probability": 0.91162109375
+        },
+        {
+          "word": "beans",
+          "start": 8.82,
+          "end": 9.34,
+          "probability": 0.89599609375
+        },
+        {
+          "word": "and",
+          "start": 9.34,
+          "end": 9.74,
+          "probability": 0.9814453125
+        },
+        {
+          "word": "barley",
+          "start": 9.74,
+          "end": 10.4,
+          "probability": 0.978515625
+        },
+        {
+          "word": "grow",
+          "start": 10.4,
+          "end": 10.98,
+          "probability": 0.9541015625
+        }
+      ],
+      "action": "grow",
+      "cue": "GROW, GROW, GROW!"
+    },
+    {
+      "start": 10.98,
+      "end": 14.94,
+      "text": "Oats and beans and barley grow",
+      "words": [
+        {
+          "word": "Oats",
+          "start": 10.98,
+          "end": 12.34,
+          "probability": 0.845703125
+        },
+        {
+          "word": "and",
+          "start": 12.34,
+          "end": 12.8,
+          "probability": 0.994140625
+        },
+        {
+          "word": "beans",
+          "start": 12.8,
+          "end": 13.24,
+          "probability": 0.99072265625
+        },
+        {
+          "word": "and",
+          "start": 13.24,
+          "end": 13.72,
+          "probability": 0.998046875
+        },
+        {
+          "word": "barley",
+          "start": 13.72,
+          "end": 14.38,
+          "probability": 0.998046875
+        },
+        {
+          "word": "grow",
+          "start": 14.38,
+          "end": 14.94,
+          "probability": 0.99609375
+        }
+      ],
+      "action": "grow",
+      "cue": "GROW, GROW, GROW!"
+    },
+    {
+      "start": 14.94,
+      "end": 19.12,
+      "text": "Do you or I or anyone know",
+      "words": [
+        {
+          "word": "Do",
+          "start": 14.94,
+          "end": 15.78,
+          "probability": 0.84716796875
+        },
+        {
+          "word": "you",
+          "start": 15.78,
+          "end": 16.24,
+          "probability": 0.99462890625
+        },
+        {
+          "word": "or",
+          "start": 16.24,
+          "end": 16.78,
+          "probability": 0.798828125
+        },
+        {
+          "word": "I",
+          "start": 16.78,
+          "end": 17.34,
+          "probability": 0.98583984375
+        },
+        {
+          "word": "or",
+          "start": 17.34,
+          "end": 17.74,
+          "probability": 0.82861328125
+        },
+        {
+          "word": "anyone",
+          "start": 17.74,
+          "end": 18.42,
+          "probability": 0.98193359375
+        },
+        {
+          "word": "know",
+          "start": 18.42,
+          "end": 19.12,
+          "probability": 0.9716796875
+        }
+      ],
+      "action": "wonder",
+      "cue": "HOW DO THEY GROW?"
+    },
+    {
+      "start": 19.12,
+      "end": 22.92,
+      "text": "How oats and beans and barley grow",
+      "words": [
+        {
+          "word": "How",
+          "start": 19.12,
+          "end": 19.76,
+          "probability": 0.59423828125
+        },
+        {
+          "word": "oats",
+          "start": 19.76,
+          "end": 20.2,
+          "probability": 0.97705078125
+        },
+        {
+          "word": "and",
+          "start": 20.2,
+          "end": 20.76,
+          "probability": 0.9892578125
+        },
+        {
+          "word": "beans",
+          "start": 20.76,
+          "end": 21.2,
+          "probability": 0.9970703125
+        },
+        {
+          "word": "and",
+          "start": 21.2,
+          "end": 21.62,
+          "probability": 0.99755859375
+        },
+        {
+          "word": "barley",
+          "start": 21.62,
+          "end": 22.28,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "grow",
+          "start": 22.28,
+          "end": 22.92,
+          "probability": 0.9970703125
+        }
+      ],
+      "action": "grow",
+      "cue": "GROW, GROW, GROW!"
+    },
+    {
+      "start": 22.92,
+      "end": 26.24,
+      "text": "Plant your seeds down nice and low",
+      "words": [
+        {
+          "word": "Plant",
+          "start": 22.92,
+          "end": 23.48,
+          "probability": 0.0567626953125
+        },
+        {
+          "word": "your",
+          "start": 23.48,
+          "end": 23.7,
+          "probability": 0.96337890625
+        },
+        {
+          "word": "seeds",
+          "start": 23.7,
+          "end": 24.26,
+          "probability": 0.97607421875
+        },
+        {
+          "word": "down",
+          "start": 24.26,
+          "end": 24.76,
+          "probability": 0.93798828125
+        },
+        {
+          "word": "nice",
+          "start": 24.76,
+          "end": 25.2,
+          "probability": 0.93798828125
+        },
+        {
+          "word": "and",
+          "start": 25.2,
+          "end": 25.64,
+          "probability": 0.9775390625
+        },
+        {
+          "word": "low",
+          "start": 25.64,
+          "end": 26.24,
+          "probability": 0.9912109375
+        }
+      ],
+      "action": "plant",
+      "cue": "PLANT YOUR SEEDS"
+    },
+    {
+      "start": 26.24,
+      "end": 30.36,
+      "text": "Pat the ground and watch them grow",
+      "words": [
+        {
+          "word": "Pat",
+          "start": 26.24,
+          "end": 27.44,
+          "probability": 0.20947265625
+        },
+        {
+          "word": "the",
+          "start": 27.44,
+          "end": 27.68,
+          "probability": 0.99658203125
+        },
+        {
+          "word": "ground",
+          "start": 27.68,
+          "end": 28.24,
+          "probability": 0.99658203125
+        },
+        {
+          "word": "and",
+          "start": 28.24,
+          "end": 28.66,
+          "probability": 0.8876953125
+        },
+        {
+          "word": "watch",
+          "start": 28.66,
+          "end": 29.06,
+          "probability": 0.98876953125
+        },
+        {
+          "word": "them",
+          "start": 29.06,
+          "end": 29.6,
+          "probability": 0.990234375
+        },
+        {
+          "word": "grow",
+          "start": 29.6,
+          "end": 30.36,
+          "probability": 0.99755859375
+        }
+      ],
+      "action": "pat",
+      "cue": "PAT THE GROUND"
+    },
+    {
+      "start": 30.36,
+      "end": 34.16,
+      "text": "Wiggle your fingers let rain fall",
+      "words": [
+        {
+          "word": "Wiggle",
+          "start": 30.36,
+          "end": 31.28,
+          "probability": 0.9814453125
+        },
+        {
+          "word": "your",
+          "start": 31.28,
+          "end": 31.64,
+          "probability": 0.99267578125
+        },
+        {
+          "word": "fingers",
+          "start": 31.64,
+          "end": 32.48,
+          "probability": 0.998046875
+        },
+        {
+          "word": "let",
+          "start": 32.48,
+          "end": 33.04,
+          "probability": 0.98779296875
+        },
+        {
+          "word": "rain",
+          "start": 33.04,
+          "end": 33.56,
+          "probability": 0.163818359375
+        },
+        {
+          "word": "fall",
+          "start": 33.56,
+          "end": 34.16,
+          "probability": 0.99755859375
+        }
+      ],
+      "action": "rain",
+      "cue": "WIGGLE YOUR FINGERS"
+    },
+    {
+      "start": 34.16,
+      "end": 38.48,
+      "text": "Now reach up and grow so tall",
+      "words": [
+        {
+          "word": "Now",
+          "start": 34.16,
+          "end": 35.42,
+          "probability": 0.9755859375
+        },
+        {
+          "word": "reach",
+          "start": 35.42,
+          "end": 35.6,
+          "probability": 0.9462890625
+        },
+        {
+          "word": "up",
+          "start": 35.6,
+          "end": 36.04,
+          "probability": 0.99755859375
+        },
+        {
+          "word": "and",
+          "start": 36.04,
+          "end": 36.62,
+          "probability": 0.8916015625
+        },
+        {
+          "word": "grow",
+          "start": 36.62,
+          "end": 36.94,
+          "probability": 0.99609375
+        },
+        {
+          "word": "so",
+          "start": 36.94,
+          "end": 37.46,
+          "probability": 0.978515625
+        },
+        {
+          "word": "tall",
+          "start": 37.46,
+          "end": 38.48,
+          "probability": 0.998046875
+        }
+      ],
+      "action": "reach",
+      "cue": "REACH UP HIGH!"
+    },
+    {
+      "start": 39.24,
+      "end": 43.02,
+      "text": "Sway to the left sway to the right",
+      "words": [
+        {
+          "word": "Sway",
+          "start": 39.24,
+          "end": 39.96,
+          "probability": 0.92822265625
+        },
+        {
+          "word": "to",
+          "start": 39.96,
+          "end": 40.36,
+          "probability": 0.998046875
+        },
+        {
+          "word": "the",
+          "start": 40.36,
+          "end": 40.64,
+          "probability": 0.998046875
+        },
+        {
+          "word": "left",
+          "start": 40.64,
+          "end": 40.96,
+          "probability": 0.9931640625
+        },
+        {
+          "word": "sway",
+          "start": 41.78,
+          "end": 41.82,
+          "probability": 0.9794921875
+        },
+        {
+          "word": "to",
+          "start": 41.82,
+          "end": 42.34,
+          "probability": 0.99853515625
+        },
+        {
+          "word": "the",
+          "start": 42.34,
+          "end": 42.56,
+          "probability": 0.998046875
+        },
+        {
+          "word": "right",
+          "start": 42.56,
+          "end": 43.02,
+          "probability": 0.99853515625
+        }
+      ],
+      "action": "sway",
+      "cue": "SWAY LEFT & RIGHT"
+    },
+    {
+      "start": 43.02,
+      "end": 47.0,
+      "text": "Stretch your leaves into the light",
+      "words": [
+        {
+          "word": "Stretch",
+          "start": 43.02,
+          "end": 43.82,
+          "probability": 0.9814453125
+        },
+        {
+          "word": "your",
+          "start": 43.82,
+          "end": 44.46,
+          "probability": 0.99609375
+        },
+        {
+          "word": "leaves",
+          "start": 44.46,
+          "end": 44.98,
+          "probability": 0.888671875
+        },
+        {
+          "word": "into",
+          "start": 44.98,
+          "end": 45.7,
+          "probability": 0.9873046875
+        },
+        {
+          "word": "the",
+          "start": 45.7,
+          "end": 46.52,
+          "probability": 0.99755859375
+        },
+        {
+          "word": "light",
+          "start": 46.52,
+          "end": 47.0,
+          "probability": 0.98388671875
+        }
+      ],
+      "action": "reach",
+      "cue": "REACH UP HIGH!"
+    },
+    {
+      "start": 47.0,
+      "end": 51.04,
+      "text": "Find your grown up face to face",
+      "words": [
+        {
+          "word": "Find",
+          "start": 47.0,
+          "end": 47.88,
+          "probability": 0.3076171875
+        },
+        {
+          "word": "your",
+          "start": 47.88,
+          "end": 48.4,
+          "probability": 0.9697265625
+        },
+        {
+          "word": "grown",
+          "start": 48.4,
+          "end": 48.92,
+          "probability": 0.96484375
+        },
+        {
+          "word": "up",
+          "start": 48.92,
+          "end": 49.32,
+          "probability": 0.43115234375
+        },
+        {
+          "word": "face",
+          "start": 49.32,
+          "end": 49.84,
+          "probability": 0.86572265625
+        },
+        {
+          "word": "to",
+          "start": 49.84,
+          "end": 50.38,
+          "probability": 0.8505859375
+        },
+        {
+          "word": "face",
+          "start": 50.38,
+          "end": 51.04,
+          "probability": 0.99755859375
+        }
+      ],
+      "action": "partner",
+      "cue": "FIND YOUR GROWN-UP"
+    },
+    {
+      "start": 51.04,
+      "end": 55.5,
+      "text": "Copy the moves right in your place",
+      "words": [
+        {
+          "word": "Copy",
+          "start": 51.04,
+          "end": 51.86,
+          "probability": 0.50244140625
+        },
+        {
+          "word": "the",
+          "start": 51.86,
+          "end": 52.52,
+          "probability": 0.7265625
+        },
+        {
+          "word": "moves",
+          "start": 52.52,
+          "end": 52.9,
+          "probability": 0.70849609375
+        },
+        {
+          "word": "right",
+          "start": 52.9,
+          "end": 53.46,
+          "probability": 0.56298828125
+        },
+        {
+          "word": "in",
+          "start": 53.46,
+          "end": 53.9,
+          "probability": 0.99609375
+        },
+        {
+          "word": "your",
+          "start": 53.9,
+          "end": 54.4,
+          "probability": 0.98779296875
+        },
+        {
+          "word": "place",
+          "start": 54.4,
+          "end": 55.5,
+          "probability": 0.95947265625
+        }
+      ],
+      "action": "copy",
+      "cue": "COPY THE MOVES"
+    },
+    {
+      "start": 62.9,
+      "end": 66.52,
+      "text": "Oats and beans and barley grow",
+      "words": [
+        {
+          "word": "Oats",
+          "start": 62.9,
+          "end": 63.96,
+          "probability": 0.822265625
+        },
+        {
+          "word": "and",
+          "start": 63.96,
+          "end": 64.4,
+          "probability": 0.89599609375
+        },
+        {
+          "word": "beans",
+          "start": 64.4,
+          "end": 64.82,
+          "probability": 0.90771484375
+        },
+        {
+          "word": "and",
+          "start": 64.82,
+          "end": 65.34,
+          "probability": 0.9892578125
+        },
+        {
+          "word": "barley",
+          "start": 65.34,
+          "end": 65.96,
+          "probability": 0.8466796875
+        },
+        {
+          "word": "grow",
+          "start": 65.96,
+          "end": 66.52,
+          "probability": 0.74560546875
+        }
+      ],
+      "action": "grow",
+      "cue": "GROW, GROW, GROW!"
+    },
+    {
+      "start": 66.52,
+      "end": 70.54,
+      "text": "Oats and beans and barley grow",
+      "words": [
+        {
+          "word": "Oats",
+          "start": 66.52,
+          "end": 67.86,
+          "probability": 0.94921875
+        },
+        {
+          "word": "and",
+          "start": 67.86,
+          "end": 68.36,
+          "probability": 0.99072265625
+        },
+        {
+          "word": "beans",
+          "start": 68.36,
+          "end": 68.76,
+          "probability": 0.9912109375
+        },
+        {
+          "word": "and",
+          "start": 68.76,
+          "end": 69.26,
+          "probability": 0.99853515625
+        },
+        {
+          "word": "barley",
+          "start": 69.26,
+          "end": 69.92,
+          "probability": 0.99755859375
+        },
+        {
+          "word": "grow",
+          "start": 69.92,
+          "end": 70.54,
+          "probability": 0.9970703125
+        }
+      ],
+      "action": "grow",
+      "cue": "GROW, GROW, GROW!"
+    },
+    {
+      "start": 70.54,
+      "end": 74.7,
+      "text": "Do you or I or anyone know",
+      "words": [
+        {
+          "word": "Do",
+          "start": 70.54,
+          "end": 71.32,
+          "probability": 0.4462890625
+        },
+        {
+          "word": "you",
+          "start": 71.32,
+          "end": 71.66,
+          "probability": 0.98681640625
+        },
+        {
+          "word": "or",
+          "start": 71.66,
+          "end": 72.32,
+          "probability": 0.73046875
+        },
+        {
+          "word": "I",
+          "start": 72.32,
+          "end": 72.86,
+          "probability": 0.970703125
+        },
+        {
+          "word": "or",
+          "start": 72.86,
+          "end": 73.28,
+          "probability": 0.8046875
+        },
+        {
+          "word": "anyone",
+          "start": 73.28,
+          "end": 73.98,
+          "probability": 0.98193359375
+        },
+        {
+          "word": "know",
+          "start": 73.98,
+          "end": 74.7,
+          "probability": 0.97314453125
+        }
+      ],
+      "action": "wonder",
+      "cue": "HOW DO THEY GROW?"
+    },
+    {
+      "start": 74.7,
+      "end": 78.4,
+      "text": "How oats and beans and barley grow",
+      "words": [
+        {
+          "word": "How",
+          "start": 74.7,
+          "end": 75.34,
+          "probability": 0.341064453125
+        },
+        {
+          "word": "oats",
+          "start": 75.34,
+          "end": 75.74,
+          "probability": 0.1324462890625
+        },
+        {
+          "word": "and",
+          "start": 75.74,
+          "end": 76.28,
+          "probability": 0.97119140625
+        },
+        {
+          "word": "beans",
+          "start": 76.28,
+          "end": 76.76,
+          "probability": 0.98974609375
+        },
+        {
+          "word": "and",
+          "start": 76.76,
+          "end": 77.16,
+          "probability": 0.9912109375
+        },
+        {
+          "word": "barley",
+          "start": 77.16,
+          "end": 77.78,
+          "probability": 0.0005345344543457031
+        },
+        {
+          "word": "grow",
+          "start": 77.78,
+          "end": 78.4,
+          "probability": 0.99267578125
+        }
+      ],
+      "action": "grow",
+      "cue": "GROW, GROW, GROW!"
+    },
+    {
+      "start": 78.4,
+      "end": 81.66,
+      "text": "Can you stamp stamp stamp stamp",
+      "words": [
+        {
+          "word": "Can",
+          "start": 78.4,
+          "end": 79.06,
+          "probability": 0.42578125
+        },
+        {
+          "word": "you",
+          "start": 79.06,
+          "end": 79.26,
+          "probability": 0.994140625
+        },
+        {
+          "word": "stamp",
+          "start": 79.26,
+          "end": 79.62,
+          "probability": 0.91259765625
+        },
+        {
+          "word": "stamp",
+          "start": 80.26,
+          "end": 80.56,
+          "probability": 0.99072265625
+        },
+        {
+          "word": "stamp",
+          "start": 80.96,
+          "end": 81.22,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "stamp",
+          "start": 81.26,
+          "end": 81.66,
+          "probability": 0.99755859375
+        }
+      ],
+      "action": "stamp",
+      "cue": "STAMP YOUR FEET!"
+    },
+    {
+      "start": 81.66,
+      "end": 86.24,
+      "text": "Can you clap clap clap clap",
+      "words": [
+        {
+          "word": "Can",
+          "start": 81.66,
+          "end": 83.02,
+          "probability": 0.53369140625
+        },
+        {
+          "word": "you",
+          "start": 83.02,
+          "end": 83.28,
+          "probability": 0.99755859375
+        },
+        {
+          "word": "clap",
+          "start": 83.28,
+          "end": 83.74,
+          "probability": 0.99365234375
+        },
+        {
+          "word": "clap",
+          "start": 84.0,
+          "end": 84.66,
+          "probability": 0.998046875
+        },
+        {
+          "word": "clap",
+          "start": 84.86,
+          "end": 85.26,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "clap",
+          "start": 85.26,
+          "end": 86.24,
+          "probability": 0.99755859375
+        }
+      ],
+      "action": "clap",
+      "cue": "CLAP YOUR HANDS!"
+    },
+    {
+      "start": 86.24,
+      "end": 89.7,
+      "text": "Turn around and bend your knees",
+      "words": [
+        {
+          "word": "Turn",
+          "start": 86.24,
+          "end": 86.98,
+          "probability": 0.9775390625
+        },
+        {
+          "word": "around",
+          "start": 86.98,
+          "end": 87.6,
+          "probability": 0.99462890625
+        },
+        {
+          "word": "and",
+          "start": 87.6,
+          "end": 88.18,
+          "probability": 0.7421875
+        },
+        {
+          "word": "bend",
+          "start": 88.18,
+          "end": 88.52,
+          "probability": 0.9814453125
+        },
+        {
+          "word": "your",
+          "start": 88.52,
+          "end": 89.04,
+          "probability": 0.9951171875
+        },
+        {
+          "word": "knees",
+          "start": 89.04,
+          "end": 89.7,
+          "probability": 0.99853515625
+        }
+      ],
+      "action": "turn",
+      "cue": "TURN & BEND"
+    },
+    {
+      "start": 89.7,
+      "end": 93.6,
+      "text": "Stand up tall and everybody freeze",
+      "words": [
+        {
+          "word": "Stand",
+          "start": 89.7,
+          "end": 90.96,
+          "probability": 0.98974609375
+        },
+        {
+          "word": "up",
+          "start": 90.96,
+          "end": 91.16,
+          "probability": 0.9951171875
+        },
+        {
+          "word": "tall",
+          "start": 91.16,
+          "end": 91.6,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "and",
+          "start": 91.6,
+          "end": 92.16,
+          "probability": 0.9326171875
+        },
+        {
+          "word": "everybody",
+          "start": 92.16,
+          "end": 92.92,
+          "probability": 0.98486328125
+        },
+        {
+          "word": "freeze",
+          "start": 92.92,
+          "end": 93.6,
+          "probability": 0.95458984375
+        }
+      ],
+      "action": "freeze",
+      "cue": "STAND TALL... FREEZE!"
+    },
+    {
+      "start": 96.67999999999999,
+      "end": 100.2,
+      "text": "Oats and beans and barley grow",
+      "words": [
+        {
+          "word": "Oats",
+          "start": 96.67999999999999,
+          "end": 97.6,
+          "probability": 0.478271484375
+        },
+        {
+          "word": "and",
+          "start": 97.6,
+          "end": 98.08,
+          "probability": 0.84619140625
+        },
+        {
+          "word": "beans",
+          "start": 98.08,
+          "end": 98.5,
+          "probability": 0.6572265625
+        },
+        {
+          "word": "and",
+          "start": 98.5,
+          "end": 99.02,
+          "probability": 0.96630859375
+        },
+        {
+          "word": "barley",
+          "start": 99.02,
+          "end": 99.66,
+          "probability": 0.448486328125
+        },
+        {
+          "word": "grow",
+          "start": 99.66,
+          "end": 100.2,
+          "probability": 0.83349609375
+        }
+      ],
+      "action": "grow",
+      "cue": "GROW, GROW, GROW!"
+    },
+    {
+      "start": 100.2,
+      "end": 104.42,
+      "text": "Oats and beans and barley grow",
+      "words": [
+        {
+          "word": "Oats",
+          "start": 100.2,
+          "end": 101.6,
+          "probability": 0.77783203125
+        },
+        {
+          "word": "and",
+          "start": 101.6,
+          "end": 102.04,
+          "probability": 0.9794921875
+        },
+        {
+          "word": "beans",
+          "start": 102.04,
+          "end": 102.5,
+          "probability": 0.99365234375
+        },
+        {
+          "word": "and",
+          "start": 102.5,
+          "end": 102.96,
+          "probability": 0.99755859375
+        },
+        {
+          "word": "barley",
+          "start": 102.96,
+          "end": 103.68,
+          "probability": 0.9970703125
+        },
+        {
+          "word": "grow",
+          "start": 103.68,
+          "end": 104.42,
+          "probability": 0.99072265625
+        }
+      ],
+      "action": "grow",
+      "cue": "GROW, GROW, GROW!"
+    },
+    {
+      "start": 104.42,
+      "end": 108.44,
+      "text": "Do you or I or anyone know",
+      "words": [
+        {
+          "word": "Do",
+          "start": 104.42,
+          "end": 105.04,
+          "probability": 0.5771484375
+        },
+        {
+          "word": "you",
+          "start": 105.04,
+          "end": 105.46,
+          "probability": 0.99169921875
+        },
+        {
+          "word": "or",
+          "start": 105.46,
+          "end": 106.04,
+          "probability": 0.56396484375
+        },
+        {
+          "word": "I",
+          "start": 106.04,
+          "end": 106.66,
+          "probability": 0.98876953125
+        },
+        {
+          "word": "or",
+          "start": 106.66,
+          "end": 107.02,
+          "probability": 0.84033203125
+        },
+        {
+          "word": "anyone",
+          "start": 107.02,
+          "end": 107.76,
+          "probability": 0.97119140625
+        },
+        {
+          "word": "know",
+          "start": 107.76,
+          "end": 108.44,
+          "probability": 0.98828125
+        }
+      ],
+      "action": "wonder",
+      "cue": "HOW DO THEY GROW?"
+    },
+    {
+      "start": 108.44,
+      "end": 112.03999999999999,
+      "text": "How oats and beans and barley grow",
+      "words": [
+        {
+          "word": "How",
+          "start": 108.44,
+          "end": 109.02,
+          "probability": 0.68896484375
+        },
+        {
+          "word": "oats",
+          "start": 109.02,
+          "end": 109.46,
+          "probability": 0.97509765625
+        },
+        {
+          "word": "and",
+          "start": 109.46,
+          "end": 110.02,
+          "probability": 0.98583984375
+        },
+        {
+          "word": "beans",
+          "start": 110.02,
+          "end": 110.48,
+          "probability": 0.99853515625
+        },
+        {
+          "word": "and",
+          "start": 110.48,
+          "end": 110.88,
+          "probability": 0.998046875
+        },
+        {
+          "word": "barley",
+          "start": 110.88,
+          "end": 111.58,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "grow",
+          "start": 111.58,
+          "end": 112.03999999999999,
+          "probability": 0.99755859375
+        }
+      ],
+      "action": "grow",
+      "cue": "GROW, GROW, GROW!"
+    },
+    {
+      "start": 112.52,
+      "end": 114.78,
+      "text": "Little seed and great big tree",
+      "words": [
+        {
+          "word": "Little",
+          "start": 112.52,
+          "end": 113.44,
+          "probability": 0.208740234375
+        },
+        {
+          "word": "seed",
+          "start": 113.44,
+          "end": 113.74,
+          "probability": 0.92529296875
+        },
+        {
+          "word": "and",
+          "start": 113.74,
+          "end": 113.98,
+          "probability": 0.98388671875
+        },
+        {
+          "word": "great",
+          "start": 113.98,
+          "end": 114.22,
+          "probability": 0.79541015625
+        },
+        {
+          "word": "big",
+          "start": 114.22,
+          "end": 114.42,
+          "probability": 0.91162109375
+        },
+        {
+          "word": "tree",
+          "start": 114.42,
+          "end": 114.78,
+          "probability": 0.99072265625
+        }
+      ],
+      "action": "seedtree",
+      "cue": "LITTLE SEED, BIG TREE"
+    },
+    {
+      "start": 114.78,
+      "end": 116.78,
+      "text": "Thanks for dancing here with me",
+      "words": [
+        {
+          "word": "Thanks",
+          "start": 114.78,
+          "end": 115.22,
+          "probability": 0.7490234375
+        },
+        {
+          "word": "for",
+          "start": 115.22,
+          "end": 115.46,
+          "probability": 0.99853515625
+        },
+        {
+          "word": "dancing",
+          "start": 115.46,
+          "end": 115.8,
+          "probability": 0.89990234375
+        },
+        {
+          "word": "here",
+          "start": 115.8,
+          "end": 116.22,
+          "probability": 0.97900390625
+        },
+        {
+          "word": "with",
+          "start": 116.22,
+          "end": 116.46,
+          "probability": 0.9951171875
+        },
+        {
+          "word": "me",
+          "start": 116.46,
+          "end": 116.78,
+          "probability": 0.99853515625
+        }
+      ],
+      "action": "wave",
+      "cue": "THANKS FOR DANCING!"
+    }
+  ],
+  "beats": [
+    0.06965986394557823,
+    0.5572789115646258,
+    1.0448979591836736,
+    1.5325170068027212,
+    2.043356009070295,
+    2.5309750566893423,
+    3.01859410430839,
+    3.5062131519274375,
+    4.017052154195011,
+    4.504671201814059,
+    5.015510204081632,
+    5.50312925170068,
+    6.013968253968254,
+    6.478367346938776,
+    6.989206349206349,
+    7.476825396825397,
+    7.987664399092971,
+    8.475283446712018,
+    8.962902494331066,
+    9.47374149659864,
+    9.961360544217687,
+    10.47219954648526,
+    10.95981859410431,
+    11.447437641723356,
+    11.935056689342403,
+    12.445895691609977,
+    12.933514739229025,
+    13.421133786848072,
+    13.931972789115646,
+    14.44281179138322,
+    14.930430839002268,
+    15.418049886621315,
+    15.928888888888888,
+    16.416507936507937,
+    16.904126984126986,
+    17.39174603174603,
+    17.902585034013605,
+    18.413424036281178,
+    18.901043083900227,
+    19.388662131519276,
+    19.87628117913832,
+    20.387120181405894,
+    20.874739229024943,
+    21.36235827664399,
+    21.873197278911565,
+    22.360816326530614,
+    22.871655328798187,
+    23.336054421768708,
+    23.84689342403628,
+    24.357732426303855,
+    24.845351473922904,
+    25.33297052154195,
+    25.843809523809522,
+    26.33142857142857,
+    26.81904761904762,
+    27.30666666666667,
+    27.817505668934242,
+    28.305124716553287,
+    28.81596371882086,
+    29.30358276643991,
+    29.791201814058958,
+    30.30204081632653,
+    30.789659863945577,
+    31.277278911564625,
+    31.7881179138322,
+    32.298956916099776,
+    32.78657596371882,
+    33.274195011337866,
+    33.78503401360544,
+    34.27265306122449,
+    34.76027210884354,
+    35.247891156462586,
+    35.75873015873016,
+    36.24634920634921,
+    36.75718820861678,
+    37.24480725623583,
+    37.73242630385487,
+    38.243265306122446,
+    38.730884353741494,
+    39.21850340136054,
+    39.72934240362812,
+    40.216961451247165,
+    40.72780045351474,
+    41.21541950113379,
+    41.72625850340136,
+    42.21387755102041,
+    42.70149659863946,
+    43.1891156462585,
+    43.699954648526074,
+    44.18757369614512,
+    44.67519274376417,
+    45.186031746031745,
+    45.67365079365079,
+    46.16126984126984,
+    46.672108843537416,
+    47.159727891156464,
+    47.67056689342404,
+    48.15818594104309,
+    48.64580498866213,
+    49.13342403628118,
+    49.64426303854875,
+    50.1318820861678,
+    50.64272108843537,
+    51.13034013605442,
+    51.594739229024945,
+    52.10557823129252,
+    52.61641723356009,
+    53.10403628117914,
+    53.614875283446715,
+    54.102494331065756,
+    54.61333333333334,
+    55.10095238095238,
+    55.58857142857143,
+    56.076190476190476,
+    56.58702947845805,
+    57.0746485260771,
+    57.56226757369615,
+    58.07310657596372,
+    58.56072562358277,
+    59.04834467120181,
+    59.559183673469384,
+    60.04680272108843,
+    60.53442176870748,
+    61.02204081632653,
+    61.532879818594104,
+    62.04371882086168,
+    62.531337868480726,
+    63.018956916099775,
+    63.52979591836735,
+    64.01741496598639,
+    64.50503401360544,
+    64.99265306122449,
+    65.50349206349206,
+    66.01433106575963,
+    66.50195011337868,
+    66.98956916099773,
+    67.47718820861678,
+    67.98802721088435,
+    68.4756462585034,
+    68.96326530612245,
+    69.47410430839003,
+    69.9849433106576,
+    70.47256235827665,
+    70.9601814058957,
+    71.47102040816327,
+    71.95863945578232,
+    72.44625850340137,
+    72.9338775510204,
+    73.44471655328798,
+    73.93233560090702,
+    74.4431746031746,
+    74.90757369614512,
+    75.4184126984127,
+    75.90603174603174,
+    76.41687074829932,
+    76.90448979591837,
+    77.39210884353741,
+    77.90294784580499,
+    78.41378684807256,
+    78.87818594104309,
+    79.38902494331066,
+    79.87664399092971,
+    80.38748299319728,
+    80.87510204081633,
+    81.36272108843538,
+    81.87356009070295,
+    82.361179138322,
+    82.84879818594105,
+    83.35963718820862,
+    83.84725623582766,
+    84.31165532879818,
+    84.82249433106576,
+    85.33333333333333,
+    85.8441723356009,
+    86.33179138321995,
+    86.819410430839,
+    87.33024943310657,
+    87.81786848072562,
+    88.30548752834467,
+    88.79310657596372,
+    89.30394557823129,
+    89.81478458049887,
+    90.30240362811791,
+    90.79002267573696,
+    91.30086167800454,
+    91.78848072562359,
+    92.27609977324263,
+    92.76371882086168,
+    93.27455782312926,
+    93.7621768707483,
+    94.27301587301588,
+    94.76063492063491,
+    95.24825396825396,
+    95.75909297052154,
+    96.26993197278911,
+    96.75755102040816,
+    97.2451700680272,
+    97.75600907029478,
+    98.24362811791383,
+    98.73124716553288,
+    99.24208616780045,
+    99.7297052154195,
+    100.21732426303855,
+    100.7049433106576,
+    101.21578231292517,
+    101.70340136054422,
+    102.2142403628118,
+    102.70185941043084,
+    103.18947845804989,
+    103.70031746031746,
+    104.18793650793651,
+    104.67555555555556,
+    105.18639455782314,
+    105.67401360544218,
+    106.16163265306122,
+    106.64925170068027,
+    107.16009070294784,
+    107.67092970521541,
+    108.15854875283446,
+    108.64616780045351,
+    109.13378684807256,
+    109.62140589569161,
+    110.13224489795918,
+    110.61986394557823,
+    111.1307029478458,
+    111.61832199546485,
+    112.12916099773243,
+    112.61678004535148,
+    113.10439909297052,
+    113.6152380952381,
+    114.10285714285715,
+    114.5904761904762,
+    115.10131519274377,
+    115.58893424036282,
+    116.09977324263039,
+    116.5641723356009,
+    117.07501133786847
+  ]
+}

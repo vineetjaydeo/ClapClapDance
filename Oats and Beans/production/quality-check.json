@@ -1,0 +1,14 @@
+{
+  "width": 1920,
+  "height": 1080,
+  "fps": "30/1",
+  "duration_seconds": 120.033333,
+  "audio_codec": "aac",
+  "audio_waveform_correlation_to_original": 0.9998269860532031,
+  "source_audio_duration_seconds": 120.0326530612245,
+  "encoded_audio_duration_seconds": 120.04716553287982,
+  "size_bytes": 79458954,
+  "complete_decode_without_errors": true,
+  "freeze_mean_pixel_difference_0_to_255": 0.0014763374485596708,
+  "stamp_movement_mean_pixel_difference_0_to_255": 1.287878086419753
+}

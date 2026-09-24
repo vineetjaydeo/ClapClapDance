@@ -1,0 +1,166 @@
+{
+  "protocol_version": "v1",
+  "threshold_note": "Proposed practical effect sizes and observation floors, not power calculations or industry benchmarks. Finalize in preregistration before testing.",
+  "hypotheses": [
+    {
+      "id": "H01",
+      "priority": 1,
+      "title": "Show shared dancing immediately",
+      "status": "proposed",
+      "hypothesis": "A parent and child performing the first simple move during the opening improves 30-second retention compared with an otherwise comparable scene-setting opening.",
+      "variable": "Opening visual activity",
+      "primary_metric": "retention_30s_pct",
+      "proposed_effect_rule": "+5 percentage points median across three matched pairs",
+      "guardrails": "APV decline no more than 3 points; no quality/cost breach",
+      "source_ids": [
+        "S06",
+        "S08"
+      ],
+      "limitations": "Keep music source unchanged; code first visible shared move; song and audience differences remain confounders."
+    },
+    {
+      "id": "H02",
+      "priority": 2,
+      "title": "Make cue and movement easy to follow",
+      "status": "proposed",
+      "hypothesis": "A stable full-body demonstration through each action improves APV compared with more camera changes, while adults report fewer confusing moments.",
+      "variable": "Camera/shot continuity during cues",
+      "primary_metric": "avg_percentage_viewed",
+      "proposed_effect_rule": "+5 percentage points median across three matched pairs",
+      "guardrails": "No loss of character quality; no safety/rights failure",
+      "source_ids": [
+        "S04",
+        "S18",
+        "S19"
+      ],
+      "limitations": "Adult comprehension is separate qualitative evidence, not a combined score. Compare similar lengths."
+    },
+    {
+      "id": "H03",
+      "priority": 3,
+      "title": "Show the family pair in packaging",
+      "status": "proposed",
+      "hypothesis": "A parent and child visibly doing the same move communicates the activity more clearly than an adult-only cover.",
+      "variable": "Thumbnail subject relationship",
+      "primary_metric": "ctr_pct",
+      "proposed_effect_rule": "+1 percentage point median within comparable traffic cohorts across three matched pairs",
+      "guardrails": "APV decline no more than 3 points; accurate promise",
+      "source_ids": [
+        "S05",
+        "S07",
+        "S23"
+      ],
+      "limitations": "No native A/B test on Made for Kids. Adult concept comparison first; upload comparisons remain observational. At least 1000 impressions/video as a workflow floor."
+    },
+    {
+      "id": "H04",
+      "priority": 4,
+      "title": "Use parent-child turn-taking",
+      "status": "proposed",
+      "hypothesis": "A child-leads/adult-copies segment increases voluntary repeat interest while preserving song engagement.",
+      "variable": "One turn-taking segment",
+      "primary_metric": "avg_percentage_viewed",
+      "proposed_effect_rule": "+5 percentage points median across three matched pairs",
+      "guardrails": "No pressure/embarrassment; choreography comprehension preserved",
+      "source_ids": [
+        "S04",
+        "S18"
+      ],
+      "limitations": "Use 3–5 or 6–7 cohorts separately; repeat intention is not actual repeat use."
+    },
+    {
+      "id": "H05",
+      "priority": 5,
+      "title": "Align words and visible actions",
+      "status": "proposed",
+      "hypothesis": "Matching the action verb to a clear demonstration reduces drops around instruction transitions.",
+      "variable": "Cue timing",
+      "primary_metric": "avg_percentage_viewed",
+      "proposed_effect_rule": "+5 percentage points median across three matched pairs",
+      "guardrails": "Approved audio preserved; lyric accuracy",
+      "source_ids": [
+        "S04",
+        "S08"
+      ],
+      "limitations": "Always fix actual wrong/confusing cues as defects; never deliberately publish misleading control material."
+    },
+    {
+      "id": "H06",
+      "priority": 6,
+      "title": "Build occasion-based series",
+      "status": "proposed",
+      "hypothesis": "A recognizable family activity series generates more return behavior than unrelated song positioning.",
+      "variable": "Series naming and coherent use occasion",
+      "primary_metric": "returning_viewers",
+      "proposed_effect_rule": "Set only after a usable channel baseline; no threshold yet",
+      "guardrails": "Production capacity; meaningful differences between songs",
+      "source_ids": [
+        "S06",
+        "S21"
+      ],
+      "limitations": "Deferred. Channel-level temporal comparison is highly confounded and cannot isolate the series effect."
+    },
+    {
+      "id": "H07",
+      "priority": 7,
+      "title": "Offer distinct activity levels",
+      "status": "proposed",
+      "hypothesis": "Separating simple copy-play and older two-step songs reduces confusion compared with one undifferentiated activity level.",
+      "variable": "Age/activity-level framing",
+      "primary_metric": "avg_percentage_viewed",
+      "proposed_effect_rule": "Set after baseline within each band; no cross-age winner claim",
+      "guardrails": "0–7 family brand retained; inclusive participation",
+      "source_ids": [
+        "S02",
+        "S04"
+      ],
+      "limitations": "Deferred. This is segmentation research; ages in account analytics do not identify the child watching."
+    },
+    {
+      "id": "H08",
+      "priority": 8,
+      "title": "Try a purposeful compilation",
+      "status": "proposed",
+      "hypothesis": "A curated family dance session solves a longer activity occasion without hurting satisfaction.",
+      "variable": "Session format",
+      "primary_metric": "avg_view_duration_seconds",
+      "proposed_effect_rule": "Set after several accepted songs; compare compilations with compilations",
+      "guardrails": "No padding or low-value duplication; natural stopping points",
+      "source_ids": [
+        "S04",
+        "S11"
+      ],
+      "limitations": "Deferred. Do not compare APV directly with short single-song videos."
+    },
+    {
+      "id": "H09",
+      "priority": 9,
+      "title": "Test Shorts as a separate discovery format",
+      "status": "proposed",
+      "hypothesis": "A self-contained family dance excerpt attracts engaged Shorts viewing and some observable follow-on interest.",
+      "variable": "Shorts distribution pilot",
+      "primary_metric": "engaged_views",
+      "proposed_effect_rule": "Set after Shorts baseline; no threshold yet",
+      "guardrails": "Original-song production cadence and understandable vertical framing",
+      "source_ids": [
+        "S09"
+      ],
+      "limitations": "Deferred. Raw starts are not engagement and cross-format conversion may be unobservable."
+    },
+    {
+      "id": "H10",
+      "priority": 10,
+      "title": "Reduce production rework",
+      "status": "proposed",
+      "hypothesis": "Song lock and a finished-quality sample before full production reduce labor/cash per accepted song.",
+      "variable": "Production approval sequence",
+      "primary_metric": "production_hours",
+      "proposed_effect_rule": "Set after three logged productions; no threshold yet",
+      "guardrails": "Creative acceptance, audio and movement standards unchanged",
+      "source_ids": [
+        "S01"
+      ],
+      "limitations": "Track all generation attempts and failures; no creative-quality acceptance inferred from a successful render."
+    }
+  ]
+}

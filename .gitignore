@@ -1,0 +1,14 @@
+.DS_Store
+.venv/
+venv/
+node_modules/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+.private/
+data/raw/
+data/analytics/
+*.log
+# Project media is versioned through Git LFS (.gitattributes).

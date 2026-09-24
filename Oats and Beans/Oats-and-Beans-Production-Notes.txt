@@ -1,0 +1,52 @@
+OATS & BEANS — FAMILY FARM DANCE
+
+Video: 1920 × 1080, 30 fps, 16:9, approximately 2 minutes.
+Audio: supplied original MP3, unchanged in performance, pitch, speed and arrangement; encoded to AAC for MP4 playback.
+Visuals: custom animated 3D family and farm, guided by the clothing colours and family direction of the supplied reference images.
+Captions: phrase-by-phrase lyrics with word highlighting, plus dance instruction cues.
+
+MEANING AND MOVEMENT
+Seeds are planted low in the soil and gently patted down. Rain falls and sprouts grow towards sunlight. The family then sways and mirrors one another, stamps, claps, turns, bends, stands tall and freezes.
+
+TIMELINE
+  7.30– 10.98 seconds | grow | Oats and beans and barley grow
+ 10.98– 14.94 seconds | grow | Oats and beans and barley grow
+ 14.94– 19.12 seconds | wonder | Do you or I or anyone know
+ 19.12– 22.92 seconds | grow | How oats and beans and barley grow
+ 22.92– 26.24 seconds | plant | Plant your seeds down nice and low
+ 26.24– 30.36 seconds | pat | Pat the ground and watch them grow
+ 30.36– 34.16 seconds | rain | Wiggle your fingers let rain fall
+ 34.16– 38.48 seconds | reach | Now reach up and grow so tall
+ 39.24– 43.02 seconds | sway | Sway to the left sway to the right
+ 43.02– 47.00 seconds | reach | Stretch your leaves into the light
+ 47.00– 51.04 seconds | partner | Find your grown up face to face
+ 51.04– 55.50 seconds | copy | Copy the moves right in your place
+ 62.90– 66.52 seconds | grow | Oats and beans and barley grow
+ 66.52– 70.54 seconds | grow | Oats and beans and barley grow
+ 70.54– 74.70 seconds | wonder | Do you or I or anyone know
+ 74.70– 78.40 seconds | grow | How oats and beans and barley grow
+ 78.40– 81.66 seconds | stamp | Can you stamp stamp stamp stamp
+ 81.66– 86.24 seconds | clap | Can you clap clap clap clap
+ 86.24– 89.70 seconds | turn | Turn around and bend your knees
+ 89.70– 93.60 seconds | freeze | Stand up tall and everybody freeze
+ 96.68–100.20 seconds | grow | Oats and beans and barley grow
+100.20–104.42 seconds | grow | Oats and beans and barley grow
+104.42–108.44 seconds | wonder | Do you or I or anyone know
+108.44–112.04 seconds | grow | How oats and beans and barley grow
+112.52–114.78 seconds | seedtree | Little seed and great big tree
+114.78–116.78 seconds | wave | Thanks for dancing here with me
+
+DELIVERABLES
+Oats-and-Beans-Family-Farm-Dance-1080p.mp4 — finished video
+Oats-and-Beans-Lyrics.srt — separate timed lyric subtitles
+Oats-and-Beans-Lyrics.txt — extracted lyrics
+
+EDITABLE PRODUCTION
+production/timeline.json — word timings, lyrics and choreography
+production/world.js — characters, farm and movement rigs
+production/movie.js — shots, animation and on-screen typography
+production/index.html — interactive local preview
+production/render.mjs — deterministic frame rendering and video export
+production/quality-check.json — export and audio validation
+
+A local HTTP server is needed for the editable browser preview. The MP4 itself plays directly.
